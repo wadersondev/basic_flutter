@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A simple Flutter project with all basics widgets.
 
 ## Getting Started
 
